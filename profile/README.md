@@ -1,13 +1,52 @@
-## Hi there 👋
----
-## It's Caner HK !
-<!--
+## Hi there 👋  
+Welcome to **Caner HK** organization profile! Get to know us, start now!
 
-**Here are some ideas to get you started:**
+### 🚀 About Us  
+Caner HK is a passionate team committed to developing open-Caner HK is a passionate team committed to developing open-source projects that make a real impact. We specialize in **tool applications, meteorology, IoT hardware, developer tools, and design**, combining functionality with intuitive and aesthetic user experiences. While we have core focus areas, we're always eager to explore anything innovative and intriguing. Our mission is to create high-quality, community-driven solutions that simplify complex challenges and drive meaningful progress.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 🌟 Our Projects  
+
+- **CWC Weather** - *"How is the weather tomorrow? When will it rain? Is a typhoon coming?"*  
+  Get **timely, accurate, and professional** weather updates with **CWC Weather (Caner Weather Channel)**. Designed for both casual users and weather professionals, it offers **multi-platform access, diverse data sources, and in-depth forecasts**. Explore global weather conditions at [weather.caner.hk](https://weather.caner.hk).  
+
+- **CWC Sensor Series** -  
+  A premium **indoor and outdoor** weather monitoring hardware lineup:  
+  - **CWC Sensor Indoor** - A sleek, multi-functional **e-ink display** featuring temperature, humidity, and barometric pressure readings.  
+  - **CWC Sensor Outdoor** - A **professional-grade** outdoor weather sensor with **stunning design and eco-friendly materials**.  
+
+- **Glerts** *(In Development)* -  
+  A **weather enthusiast's essential tool**, designed to provide in-depth insights into severe weather events. While not focused on real-time alerts, **Glerts** helps users explore extreme weather through **weather faxes, meteorological charts, and comprehensive data**, fostering a deeper understanding and passion for meteorology.
+
+- **CDict Dictionary** *(In Development)* -  
+  A **beautiful and feature-rich offline dictionary**, currently planned exclusively for **watchOS**, solving the need for offline word lookup on Apple Watch.  
+
+- **CDict Dictionary Building Tool** *(In Development)* -  
+  A **powerful tool** designed to organize and integrate **scattered dictionary data** into a structured format for **CDict Dictionary**.  
+
+- **Caner Store** *(Live: [store.caner.hk](https://store.caner.hk))* -  
+  A **central hub** for distributing **Caner Apps** alongside other popular applications.  
+
+- **Terminal Me** *(In Development: [me.yeenjie.hk](https://me.yeenjie.hk))* -  
+  A **terminal-style interactive "About Me" webpage**, where visitors can explore your profile through command-line interactions. Users can also modify the page’s appearance via custom commands.  
+
+### 🤝 Contributing  
+We welcome contributions from developers, meteorology enthusiasts, and anyone passionate about open-source!  
+- Found an issue? Report it in our repositories.  
+- Have an idea? Open a discussion and let's collaborate!  
+- Want to contribute? Check out our contribution guidelines in each project.  
+
+### 📚 Resources  
+- [Documentation](#) 📖 (Okay, we don't have any complete documentation 😅, wait me update it. 😀)  
+- [Project Discussions](mailto:felix167811@gmail.com) 💬 Have any new idea? 💡 Contact us to enter Caner Insider.
+
+### 💖 Support Us  
+Want to **power innovation** and keep our projects running? We currently have no major revenue streams, but you can **help keep our servers online and support our developers** by making a donation!  
+
+💰 **Donate here:** [donate.caner.hk](https://donate.caner.hk)  
+
+Every contribution, big or small, helps us continue building awesome open-source projects. And hey, think of it as buying us a coffee... or a few months of server uptime! ☕😂  
+
+### 🎉 Fun Fact  
+- Our team name **"Caner"** constantly gets autocorrected to **"Cancer"** by search engines... Seriously, we're not a disease! 😤😂  
+- We're a team of **young, passionate minds** from around the world, bringing fresh ideas and energy to everything we build.  
+- Our motto? **Charge forward! 🚀🚀🚀**  
