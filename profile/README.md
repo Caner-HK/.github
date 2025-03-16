@@ -6,7 +6,7 @@ Caner HK is a passionate team committed to developing open-Caner HK is a passion
 
 ### 🌟 Our Projects  
 
-- **CWC Weather** *(Available [Repository](https://github.com/CWC-Caner-Weather-Channel)*- *"How is the weather tomorrow? When will it rain? Is a typhoon coming?"*  
+- **CWC Weather** *(Available [Repository](https://github.com/CWC-Caner-Weather-Channel))*- *"How is the weather tomorrow? When will it rain? Is a typhoon coming?"*  
   Get **timely, accurate, and professional** weather updates with **CWC Weather (Caner Weather Channel)**. Designed for both casual users and weather professionals, it offers **multi-platform access, diverse data sources, and in-depth forecasts**. Explore global weather conditions at [weather.caner.hk](https://weather.caner.hk).  
 
 - **CWC Sensor Series** -  
@@ -29,7 +29,7 @@ Caner HK is a passionate team committed to developing open-Caner HK is a passion
 - **Terminal Me** *(In Development: [Kent's About me](https://me.yeenjie.cn))* -  
   A **terminal-style interactive "About Me" webpage**, where visitors can explore your profile through command-line interactions. Users can also modify the page’s appearance via custom commands.
 
-- **Randomizer-LuckyOne** *(Available [Repository](https://github.com/Caner-HK/Randomrizer-LuckyOne)* -
+- **Randomizer-LuckyOne** *(Available [Repository](https://github.com/Caner-HK/Randomrizer-LuckyOne))* -
   A fun Material Design random extraction local web page, suitable for various team scenarios!
 
 ### 🤝 Contributing  
