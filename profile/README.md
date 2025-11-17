@@ -9,6 +9,16 @@ Caner HK is a passionate team committed to developing open-Caner HK is a passion
 - **CWC Weather** *(Available [Repository](https://github.com/CWC-Caner-Weather-Channel))*- *"How is the weather tomorrow? When will it rain? Is a typhoon coming?"*  
   Get **timely, accurate, and professional** weather updates with **CWC Weather (Caner Weather Channel)**. Designed for both casual users and weather professionals, it offers **multi-platform access, diverse data sources, and in-depth forecasts**. Explore global weather conditions at [weather.caner.hk](https://weather.caner.hk).  
 
+- **CEI – Comfort Environment Index** —  
+  A next-generation environmental comfort scoring algorithm that transforms raw weather and air-quality data into a unified **0–100 comfort index**.  
+  Designed for **multi-platform integration** across mobile apps, web applications, IoT devices, and AI systems, CEI introduces:  
+  - **Climate-aware modeling** (latitude + season)  
+  - **Physical thermal perception** (Wind-Chill + Heat-Index)  
+  - **Dynamic weighting** based on real-time weather conditions  
+  - **Weather-ID discomfort mapping** for rain, snow, fog, storm, etc.  
+  - **International AQ scoring** from PM2.5, PM10, O₃, CO, NO₂, SO₂  
+  CEI is core open-source, portable across multiple languages, and serves as the **foundation of CWC’s intelligent weather experience**.
+
 - **CWC Sensor Series** -  
   A premium **indoor and outdoor** weather monitoring hardware lineup:  
   - **CWC Sensor Indoor** - A sleek, multi-functional **e-ink display** featuring temperature, humidity, and barometric pressure readings.  
