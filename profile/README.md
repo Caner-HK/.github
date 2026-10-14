@@ -24,6 +24,8 @@ UPCOMING
 
 ### 🌦️ CWC Weather
 
+**Your weather starts now.**
+
 Is it about to rain? How will the weather change over the next few hours? What about tomorrow?
 
 **CWC Weather (Caner Weather Channel)** puts the answers in a clearer picture, from current conditions and feels-like temperature to hourly and daily forecasts, precipitation trends, and detailed weather measurements. Keep an eye on multiple places, whether they're close to home or somewhere you're heading next.
