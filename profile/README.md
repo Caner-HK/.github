@@ -20,7 +20,7 @@ There's a lot going on behind that little screen: a touch-first interface, syste
 
 And the best part of an open platform? We don't have to think of every possible use ourselves.
 
-UPCOMING
+[SDK DevKit](https://github.com/Caner-HK/DeskTile-DevKit) | Hardware Produce UPCOMING
 
 ### 🌦️ CWC Weather
 
