@@ -20,7 +20,7 @@ There's a lot going on behind that little screen: a touch-first interface, syste
 
 And the best part of an open platform? We don't have to think of every possible use ourselves.
 
-[SDK DevKit](https://github.com/Caner-HK/DeskTile-DevKit) | Hardware Produce UPCOMING
+[SDK DevKit](https://github.com/Caner-HK/DeskTile-DevKit) | [Purchase](https://desktile.caner.center)
 
 ### 🌦️ CWC Weather
 
@@ -88,6 +88,7 @@ We enjoy open source and collaboration, though **not every Caner project is open
 - **GitHub:** [github.com/Caner-HK](https://github.com/Caner-HK)
 - **Weather:** [weather.caner.hk](https://weather.caner.hk)
 - **CLens:** [clens.caner.hk](https://clens.caner.hk)
+- **DeskTile:** [desktile.caner.center](https://desktile.caner.center)
 - **Support our work:** [donate.caner.hk](https://donate.caner.hk)
 
 If you like what we make and want to keep the experiments going, your support helps with the less exciting parts of building things — like keeping servers running. ☕
